@@ -1,5 +1,5 @@
 ## Hi there 👋
-##![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seonghoo1217's%20GitHub%20Profile&descAlignY=51&descAlign=62) 
+##![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=cereal-with-water's%20GitHub%20Profile&descAlignY=51&descAlign=62) 
 <!--
 **cereal-with-water/cereal-with-water** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
