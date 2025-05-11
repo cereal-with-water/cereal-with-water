@@ -1,5 +1,8 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=cereal-with-water's%20GitHub%20Profile&descAlignY=51&descAlign=62) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=cereal-with-water's%20GitHub%20Profile&descAlignY=51&descAlign=62" alt="header"/>
+</p>
+
 
 <h3 align="center">☁ SNS list ☁</h3>
 
@@ -17,6 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cereal-with-water.cereal-with-water" />
@@ -51,6 +55,42 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+  <b>Brain Tumor Detection (CNN using TensorFlow/Keras)</b><br/>
+  Achieved 88.7% accuracy in tumor classification with custom-built CNN<br/>
+  <!--<a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">View Project</a>-->
+</p>
+
+<p align="center">
+  <b>Apple Vision Pro Interactive Heart Model</b><br/>
+  Built an anatomy learning tool using Unity + Vision Pro SDK + C#
+  <!--<a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">View Project</a>-->
+
+</p>
+
+<p align="center">
+  <b>Air Quality & Hospital Admissions Analysis</b><br/>
+  Explored impact of air pollution using Random Forest and regression models
+  <!--<a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">View Project</a>-->
+</p>
+
+---
+
+<h2 align="center">💼 Experience</h2>
+
+<p align="center">
+  <b>Research Assistant, Western Michigan University</b><br/>
+  Face detection & verification using OpenCV, dlib, Haar Cascade<br/>
+  Deepfake classification and face region comparison project
+</p>
+
+<p align="center">
+  <b>Teaching Assistant, CS/DB course</b><br/>
+  Assisted in SQL, MySQL queries, schema design, transaction labs
 </p>
 
 
