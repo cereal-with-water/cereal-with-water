@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://hashnode.com/@cerealwithwater" target="_blank">
-  <img src="https://img.shields.io/badge/DevBlog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
 
 </p>
