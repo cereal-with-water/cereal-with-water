@@ -10,19 +10,12 @@
   <a href="https://hashnode.com/@cerealwithwater" target="_blank">
   <img src="https://img.shields.io/badge/hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
+  <a href="https://your-tistory-blog.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/aidenkm_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://your-tistory-blog.tistory.com" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tistory_logo_icon_169289.png" width="20"/>
-  <img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logoColor=white"/>
-</a>
-
-
-
-
-
-
 </p>
 
 <p align="center">
