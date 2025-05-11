@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/aidenkm_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://aidenkim.hashnode.dev" target="_blank">
+  <a href="https://hashnode.com/@cerealwithwater" target="_blank">
   <img src="https://img.shields.io/badge/DevBlog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
 
