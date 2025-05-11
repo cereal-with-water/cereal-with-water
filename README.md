@@ -7,7 +7,7 @@
   <a href="https://yourblog.com" target="_blank">
     <img src="https://img.shields.io/badge/DevBlog-111111?style=flat-square&logo=githubpages&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/yourid" target="_blank">
+  <a href="https://www.linkedin.com/in/aiden-kim-531107249/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/aidenkm_/" target="_blank">
