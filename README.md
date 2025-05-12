@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">Computer Vision · Machine Learning · Interactive Tech @ WMU</h3>
+<h3 align="center">Computer Vision · Machine Learning · Interactive Tech</h3>
 
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/Raymo111/Raymo111">Face Detection</a><br/>
