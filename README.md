@@ -103,7 +103,7 @@
 
 
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cereal-with-water&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cereal-with-water&theme=tokyonight" height="180"/>
