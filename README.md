@@ -107,7 +107,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cereal-with-water&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cereal-with-water&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cereal-with-water&layout=compact&theme=tokyonight" height="80"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cereal-with-water&layout=compact&theme=tokyonight&card_width=350" height="160"/>
 </p>
 
 
