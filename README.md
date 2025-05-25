@@ -70,20 +70,20 @@
 <p align="left">
   <b>Brain Tumor Detection (CNN using TensorFlow/Keras)</b><br/>
   Achieved 88.7% accuracy in tumor classification with custom-built CNN<br/>
-  <!--<a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">View Project</a>-->
+  <<a href="https://github.com/cereal-with-water/Brain-tumor-Detection" target="_blank">View Project</a>>
 </p>
 
 <p align="left">
   <b>Apple Vision Pro Interactive Heart Model</b><br/>
   Built an anatomy learning tool using Unity + Vision Pro SDK + C#
-  <!--<a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">View Project</a>-->
+  <<a href="https://github.com/cereal-with-water/Human-Anatomy-Public" target="_blank">View Project</a>>
 
 </p>
 
 <p align="left">
   <b>Air Quality & Hospital Admissions Analysis</b><br/>
   Explored impact of air pollution using Random Forest and regression models
-  <!--<a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">View Project</a>-->
+  <<a href="https://github.com/cereal-with-water/Hospitality-in-India" target="_blank">View Project</a>>
 </p>
 
 
