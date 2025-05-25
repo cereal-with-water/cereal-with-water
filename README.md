@@ -87,6 +87,14 @@
   📁<a href="https://github.com/cereal-with-water/Hospitality-in-India" target="_blank">Air-quality-analysis</a>
 </p>
 
+<p align="left">
+  <b>BrightApp – Flutter + Firebase SNS App</b><br/>
+  Developed a sleek Instagram-like photo-sharing app using <code>Flutter</code> and <code>Firebase</code><br/>
+  Features include Firebase Auth, profile pages, personalized welcome, dynamic feed, and logout flow<br/>
+  Ideal base for scalable social apps with authentication and feed logic<br/>
+  📁 <a href="https://github.com/cereal-with-water/Bright-app-Android" target="_blank">brightapp</a>
+</p>
+
 <br><br>
 
 <h2 align="left">💼 Experience</h2>
