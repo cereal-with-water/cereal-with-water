@@ -92,15 +92,18 @@
 <h2 align="left">💼 Experience</h2>
 
 <p align="left">
-  <b>Research Assistant, Western Michigan University</b><br/>
-  Face detection & verification using OpenCV, dlib, Haar Cascade<br/>
-  Deepfake classification and face region comparison project
+  <b>🔬 Research Assistant</b> @ <i>Western Michigan University</i><br/>
+  Face detection & verification using <code>OpenCV</code>, <code>dlib</code>, <code>Haar Cascade</code><br/>
+  Deepfake classification and face region comparison project<br/>
+  <!--📁 <a href="https://github.com/cereal-with-water/FaceDetection-DeepfakeVerification" target="_blank">FaceDetection-DeepfakeVerification</a>-->
 </p>
 
 <p align="left">
-  <b>Teaching Assistant, CS/DB course</b><br/>
-  Assisted in SQL, MySQL queries, schema design, transaction labs
+  <b>🧑‍🏫 Teaching Assistant</b> – CS/DB Course<br/>
+  Guided students in <code>SQL</code> queries, <code>MySQL</code> schema design, and transaction labs<br/>
+  <!--📁 <a href="https://github.com/cereal-with-water/DB-Order-Fulfillment" target="_blank">DB-Order-Fulfillment</a>-->
 </p>
+
 
 <br><br>
 
