@@ -6,7 +6,7 @@
 <h3 align="center">Computer Vision · Machine Learning · Interactive Tech</h3>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/Raymo111/Raymo111">Face Detection</a><br/>
+  🔭 I’m currently working on <!--<a href="https://github.com/Raymo111/Raymo111">-->Face Detection</a><br/>
   🌱 I’m currently learning <b>Zig, Rust</b><br/>
   🤝 I’m looking for help with <b>ML integration</b><br/>
   👨‍💻 All of my projects are available at <a href="https://github.com/cereal-with-water">cereal-with-water</a><br/>
@@ -69,21 +69,21 @@
 
 <p align="left">
   <b>Brain Tumor Detection (CNN using TensorFlow/Keras)</b><br/>
-  Achieved 88.7% accuracy in tumor classification with custom-built CNN<br/>
-  <<a href="https://github.com/cereal-with-water/Brain-tumor-Detection" target="_blank">View Project</a>>
+  Achieved 88.7% accuracy in tumor classification with custom-built CNN<br>
+  📁<a href="https://github.com/cereal-with-water/Brain-tumor-Detection" target="_blank">Brain-tumor-detection</a>
 </p>
 
 <p align="left">
   <b>Apple Vision Pro Interactive Heart Model</b><br/>
-  Built an anatomy learning tool using Unity + Vision Pro SDK + C#
-  <<a href="https://github.com/cereal-with-water/Human-Anatomy-Public" target="_blank">View Project</a>>
+  Built an anatomy learning tool using Unity + Vision Pro SDK + C#<br>
+  📁<a href="https://github.com/cereal-with-water/Human-Anatomy-Public" target="_blank">Human-anatomy-lab</a>
 
 </p>
 
 <p align="left">
   <b>Air Quality & Hospital Admissions Analysis</b><br/>
-  Explored impact of air pollution using Random Forest and regression models
-  <<a href="https://github.com/cereal-with-water/Hospitality-in-India" target="_blank">View Project</a>>
+  Explored impact of air pollution using Random Forest and regression models<br>
+  📁<a href="https://github.com/cereal-with-water/Hospitality-in-India" target="_blank">Air-quality-analysis</a>
 </p>
 
 
